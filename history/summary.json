@@ -4,36 +4,40 @@
     "url": "https://insideradiong.com",
     "icon": "https://icons.duckduckgo.com/ip3/insideradiong.com.ico",
     "slug": "inside-radio-homepage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 664,
     "timeDay": 815,
     "timeWeek": 661,
     "timeMonth": 664,
     "timeYear": 664,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-21": 3
+    }
   },
   {
     "name": "Inside Radio Admin",
     "url": "https://insideradiong.com/customers",
     "icon": "https://icons.duckduckgo.com/ip3/insideradiong.com.ico",
     "slug": "inside-radio-admin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 115,
     "timeDay": 155,
     "timeWeek": 117,
     "timeMonth": 115,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-21": 2
+    }
   },
   {
     "name": "Inside Radio API Dashboard Metrics",
@@ -52,7 +56,7 @@
     "timeMonth": 444,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2025-04-21": 45,
+      "2025-04-21": 616,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -84,7 +88,7 @@
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-04-21": 45,
+      "2025-04-21": 616,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -104,10 +108,10 @@
     "url": "https://api.insideradiong.com/users",
     "icon": "https://icons.duckduckgo.com/ip3/api.insideradiong.com.ico",
     "slug": "inside-radio-api-get-users",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
@@ -115,14 +119,16 @@
     "timeWeek": 116,
     "timeMonth": 114,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-21": 1
+    }
   },
   {
     "name": "Inside Radio API Get Device Setup",
     "url": "https://api.insideradiong.com/setup",
     "icon": "https://icons.duckduckgo.com/ip3/api.insideradiong.com.ico",
     "slug": "inside-radio-api-get-device-setup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -133,6 +139,8 @@
     "timeWeek": 116,
     "timeMonth": 114,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-21": 0
+    }
   }
 ]
