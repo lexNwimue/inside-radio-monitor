@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/insideradiong.com.ico",
     "slug": "inside-radio-homepage",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "95.14%",
+    "uptimeDay": "39.68%",
+    "uptimeWeek": "91.38%",
+    "uptimeMonth": "95.14%",
+    "uptimeYear": "95.14%",
     "time": 664,
-    "timeDay": 815,
-    "timeWeek": 661,
+    "timeDay": 0,
+    "timeWeek": 679,
     "timeMonth": 664,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2025-04-21": 3
+      "2025-04-22": 42,
+      "2025-04-21": 826
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/insideradiong.com.ico",
     "slug": "inside-radio-admin",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "95.14%",
+    "uptimeDay": "39.72%",
+    "uptimeWeek": "91.39%",
+    "uptimeMonth": "95.14%",
+    "uptimeYear": "95.14%",
     "time": 115,
-    "timeDay": 155,
-    "timeWeek": 117,
+    "timeDay": 0,
+    "timeWeek": 121,
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-04-21": 2
+      "2025-04-22": 42,
+      "2025-04-21": 826
     }
   },
   {
@@ -51,12 +53,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 444,
-    "timeDay": 561,
-    "timeWeek": 447,
+    "timeDay": 0,
+    "timeWeek": 468,
     "timeMonth": 444,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2025-04-21": 616,
+      "2025-04-22": 42,
+      "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -83,12 +86,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 114,
-    "timeDay": 153,
-    "timeWeek": 115,
+    "timeDay": 0,
+    "timeWeek": 119,
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-04-21": 616,
+      "2025-04-22": 42,
+      "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -109,18 +113,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.insideradiong.com.ico",
     "slug": "inside-radio-api-get-users",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.15%",
+    "uptimeDay": "39.82%",
+    "uptimeWeek": "91.40%",
+    "uptimeMonth": "95.15%",
+    "uptimeYear": "95.15%",
     "time": 114,
-    "timeDay": 153,
-    "timeWeek": 116,
+    "timeDay": 0,
+    "timeWeek": 120,
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-04-21": 1
+      "2025-04-22": 42,
+      "2025-04-21": 824
     }
   },
   {
@@ -129,18 +134,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.insideradiong.com.ico",
     "slug": "inside-radio-api-get-device-setup",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.15%",
+    "uptimeDay": "39.86%",
+    "uptimeWeek": "91.41%",
+    "uptimeMonth": "95.15%",
+    "uptimeYear": "95.15%",
     "time": 114,
-    "timeDay": 153,
-    "timeWeek": 116,
+    "timeDay": 0,
+    "timeWeek": 120,
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-04-21": 0
+      "2025-04-22": 42,
+      "2025-04-21": 824
     }
   }
 ]
