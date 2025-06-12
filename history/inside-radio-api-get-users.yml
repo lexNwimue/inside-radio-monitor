@@ -1,7 +1,7 @@
 url: https://api.insideradiong.com/users
-status: down
-code: 502
-responseTime: 82
-lastUpdated: 2025-06-11T23:19:29.054Z
+status: up
+code: 401
+responseTime: 118
+lastUpdated: 2025-06-12T08:53:47.727Z
 startTime: 2025-04-09T15:00:25.749Z
 generator: Upptime <https://github.com/upptime/upptime>
