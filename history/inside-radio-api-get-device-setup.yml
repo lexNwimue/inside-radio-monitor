@@ -1,7 +1,7 @@
 url: https://api.insideradiong.com/setup
-status: down
-code: 500
-responseTime: 112
-lastUpdated: 2025-08-16T17:51:54.779Z
+status: up
+code: 401
+responseTime: 139
+lastUpdated: 2025-08-16T18:12:40.087Z
 startTime: 2025-04-09T15:00:26.263Z
 generator: Upptime <https://github.com/upptime/upptime>
