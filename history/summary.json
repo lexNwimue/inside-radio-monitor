@@ -16,7 +16,7 @@
     "timeMonth": 679,
     "timeYear": 978,
     "dailyMinutesDown": {
-      "2026-03-06": 678,
+      "2026-03-06": 708,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
@@ -355,7 +355,7 @@
     "timeMonth": 118,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2026-03-06": 678,
+      "2026-03-06": 708,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
@@ -694,7 +694,7 @@
     "timeMonth": 442,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2026-03-06": 678,
+      "2026-03-06": 708,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
@@ -1045,7 +1045,7 @@
     "timeMonth": 116,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-03-06": 678,
+      "2026-03-06": 708,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
@@ -1384,7 +1384,7 @@
     "url": "https://api.insideradiong.com/users",
     "icon": "https://icons.duckduckgo.com/ip3/api.insideradiong.com.ico",
     "slug": "inside-radio-api-get-users",
-    "status": "up",
+    "status": "down",
     "uptime": "3.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -1396,7 +1396,7 @@
     "timeMonth": 117,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2026-03-06": 678,
+      "2026-03-06": 708,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
@@ -1723,7 +1723,7 @@
     "url": "https://api.insideradiong.com/setup",
     "icon": "https://icons.duckduckgo.com/ip3/api.insideradiong.com.ico",
     "slug": "inside-radio-api-get-device-setup",
-    "status": "up",
+    "status": "down",
     "uptime": "3.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -1735,7 +1735,7 @@
     "timeMonth": 117,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-03-06": 678,
+      "2026-03-06": 708,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
